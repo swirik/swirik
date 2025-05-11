@@ -33,12 +33,6 @@ Discord:         ............... yourusername
 </details>
 
 <details>
-  <summary><b>📊 GitHub Stats</b></summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</details>
-
-<details>
   <summary><b>🛠️ Technical Skills</b></summary>
   <br>
   
