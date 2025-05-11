@@ -41,6 +41,34 @@ w00z?-{{[_>II<+>[(n};":I!!;,",;llll;,I[+;:,"""":ll:" :I~>!>;"  ,"
                      dbbbdpqqppqwmmmwm0 
 ```
 
+<div align="center">
+  <pre>
+    <span style="color: #FF6D00;">YourUsername</span> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    <span style="color: #FF6D00;">OS:</span>          ............... Windows 10, Linux
+    <span style="color: #FF6D00;">Uptime:</span>      ............... 10 years, 2 months, 15 days
+    <span style="color: #FF6D00;">Host:</span>        ............... Your Company, Inc.
+    <span style="color: #FF6D00;">Kernel:</span>      ............... Full Stack Developer
+    <span style="color: #FF6D00;">IDE:</span>         ............... VSCode, IntelliJ
+
+    <span style="color: #FF6D00;">Languages.Programming:</span> ... JavaScript, Python, Java, C#
+    <span style="color: #FF6D00;">Languages.Computer:</span>    ... HTML, CSS, JSON, YAML
+    <span style="color: #FF6D00;">Languages.Real:</span>        ... English, Spanish
+
+    <span style="color: #FF6D00;">Hobbies.Software:</span>   ... Game Development, Web Design
+    <span style="color: #FF6D00;">Hobbies.Hardware:</span>   ... 3D Printing, Electronics
+
+    <span style="color: #FF6D00;">Contact</span> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    <span style="color: #FF6D00;">Email.Personal:</span>  ............... your.email@gmail.com
+    <span style="color: #FF6D00;">Email.Work:</span>      ............... your.name@company.com
+    <span style="color: #FF6D00;">LinkedIn:</span>        ............... linkedin.com/in/yourusername
+    <span style="color: #FF6D00;">Discord:</span>         ............... yourusername
+
+    <span style="color: #FF6D00;">GitHub Stats</span> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    <span style="color: #FF6D00;">Repos:</span>    ... 42 (<span style="color: #54A24B;">Contributed: 15</span>) | <span style="color: #FF6D00;">Stars:</span>      ... 120
+    <span style="color: #FF6D00;">Commits:</span>  ... 1,500                | <span style="color: #FF6D00;">Followers:</span>  ... 85
+    <span style="color: #FF6D00;">Lines of Code on GitHub:</span> 100,000 (<span style="color: #54A24B;">+50,000</span>, <span style="color: #FF0000;">-20,000</span>)
+  </pre>
+</div>
 
 <!--
 **swirik/swirik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
