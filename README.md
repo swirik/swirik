@@ -38,9 +38,7 @@ w00z?-{{[_>II<+>[(n};":I!!;,",;llll;,I[+;:,"""":ll:" :I~>!>;"  ,"
  JUv({}]?-~iI;;:,":t[-~~~+----]t+>>-/[
  CQYn|[}]+<+<!;:::lO|]_~~+--?[|x/xJ0m
  CvXzf){1({<~[))zL0ZZZwwqpqqqqwwwwwwwZ
-                     dbbbdpqqppqwmmmwm0 
-```
-
+                     dbbbdpqqppqwmmmwm0
 <div align="center">
   <pre>
     <span style="color: #FF6D00;">YourUsername</span> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -69,6 +67,10 @@ w00z?-{{[_>II<+>[(n};":I!!;,",;llll;,I[+;:,"""":ll:" :I~>!>;"  ,"
     <span style="color: #FF6D00;">Lines of Code on GitHub:</span> 100,000 (<span style="color: #54A24B;">+50,000</span>, <span style="color: #FF0000;">-20,000</span>)
   </pre>
 </div>
+
+```
+
+
 
 <!--
 **swirik/swirik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
