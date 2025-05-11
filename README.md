@@ -24,7 +24,7 @@ Hobbies.Hardware:   ... Arduino, 3D Printing, Electronics,
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Contact
 
-Email.Personal:  ............... mattjefersonceleste@gmail.com
+Email:  ............... mattjefersonceleste@gmail.com
 LinkedIn:        ............... linkedin.com/in/matt-jeferson-celeste-703109335/
 Discord:         ............... swirik_97686
 ```
