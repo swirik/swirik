@@ -40,36 +40,71 @@ w00z?-{{[_>II<+>[(n};":I!!;,",;llll;,I[+;:,"""":ll:" :I~>!>;"  ,"
  CQYn|[}]+<+<!;:::lO|]_~~+--?[|x/xJ0m
  CvXzf){1({<~[))zL0ZZZwwqpqqqqwwwwwwwZ
                      dbbbdpqqppqwmmmwm0
-<div align="center">
-  <pre>
-    <span style="color: #FF6D00;">YourUsername</span> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    <span style="color: #FF6D00;">OS:</span>          ............... Windows 10, Linux
-    <span style="color: #FF6D00;">Uptime:</span>      ............... 10 years, 2 months, 15 days
-    <span style="color: #FF6D00;">Host:</span>        ............... Your Company, Inc.
-    <span style="color: #FF6D00;">Kernel:</span>      ............... Full Stack Developer
-    <span style="color: #FF6D00;">IDE:</span>         ............... VSCode, IntelliJ
-
-    <span style="color: #FF6D00;">Languages.Programming:</span> ... JavaScript, Python, Java, C#
-    <span style="color: #FF6D00;">Languages.Computer:</span>    ... HTML, CSS, JSON, YAML
-    <span style="color: #FF6D00;">Languages.Real:</span>        ... English, Spanish
-
-    <span style="color: #FF6D00;">Hobbies.Software:</span>   ... Game Development, Web Design
-    <span style="color: #FF6D00;">Hobbies.Hardware:</span>   ... 3D Printing, Electronics
-
-    <span style="color: #FF6D00;">Contact</span> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    <span style="color: #FF6D00;">Email.Personal:</span>  ............... your.email@gmail.com
-    <span style="color: #FF6D00;">Email.Work:</span>      ............... your.name@company.com
-    <span style="color: #FF6D00;">LinkedIn:</span>        ............... linkedin.com/in/yourusername
-    <span style="color: #FF6D00;">Discord:</span>         ............... yourusername
-
-    <span style="color: #FF6D00;">GitHub Stats</span> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    <span style="color: #FF6D00;">Repos:</span>    ... 42 (<span style="color: #54A24B;">Contributed: 15</span>) | <span style="color: #FF6D00;">Stars:</span>      ... 120
-    <span style="color: #FF6D00;">Commits:</span>  ... 1,500                | <span style="color: #FF6D00;">Followers:</span>  ... 85
-    <span style="color: #FF6D00;">Lines of Code on GitHub:</span> 100,000 (<span style="color: #54A24B;">+50,000</span>, <span style="color: #FF0000;">-20,000</span>)
-  </pre>
-</div>
 
 ```
+<details open>
+  <summary><b>👤 About Me</b></summary>
+  <br>
+  
+```
+YourUsername
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OS:         ............... Windows 10, Android 14, Linux
+Uptime:     ............... X years, Y months, Z days
+Host:       ............... Your Company, Inc.
+Kernel:     ............... Your Job Title
+IDE:        ............... VSCode X.X.X, IntelliJ 2023.X
+
+Languages.Programming: ... Java, Python, JavaScript, C++
+Languages.Computer:    ... HTML, CSS, JSON, LaTeX, YAML
+Languages.Real:        ... English, Spanish
+
+Hobbies.Software:   ... Game Development, Web Design, ML/AI
+Hobbies.Hardware:   ... 3D Printing, Electronics, Woodworking
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Contact
+
+Email.Personal:  ............... your.email@gmail.com
+Email.Work:      ............... your.name@company.com
+LinkedIn:        ............... linkedin.com/in/yourusername
+Discord:         ............... yourusername
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GitHub Stats
+
+Repos:    ... XX (Contributed: YY) | Stars:      ... ZZ
+Commits:  ... X,XXX                | Followers:  ... YY
+Lines of Code on GitHub: XXX,XXX (+YY,YYY, -ZZ,ZZZ)
+```
+</details>
+
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</details>
+
+<details>
+  <summary><b>🛠️ Technical Skills</b></summary>
+  <br>
+  
+  **Languages**
+  
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  
+  **Frameworks & Tools**
+  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</details>
 
 
 
