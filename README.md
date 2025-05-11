@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Profile Header](./profile-header.svg)
+
 
 <details open>
   <summary><b>👤 About Me</b></summary>
