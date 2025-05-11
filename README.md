@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Profile Header](./profile-header.svg)
 ```text                                                
                                                #8*ooW&&*M#&  
                                          <*##&&88&W&M#okqmrQho
