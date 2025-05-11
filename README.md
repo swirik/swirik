@@ -29,13 +29,6 @@ Email.Personal:  ............... your.email@gmail.com
 Email.Work:      ............... your.name@company.com
 LinkedIn:        ............... linkedin.com/in/yourusername
 Discord:         ............... yourusername
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-GitHub Stats
-
-Repos:    ... XX (Contributed: YY) | Stars:      ... ZZ
-Commits:  ... X,XXX                | Followers:  ... YY
-Lines of Code on GitHub: XXX,XXX (+YY,YYY, -ZZ,ZZZ)
 ```
 </details>
 
