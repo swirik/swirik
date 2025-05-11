@@ -1,0 +1,60 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { fill: #FF6D00; font-weight: bold; }
+    .value { fill: #FFFFFF; }
+    .stat { fill: #54A24B; }
+    .stat-neg { fill: #FF0000; }
+    .ascii { fill: #888888; font-family: monospace; }
+    text { font-family: monospace; font-size: 14px; }
+  </style>
+  
+  <rect width="100%" height="100%" fill="#0D1117" />
+  
+  <!-- ASCII Art -->
+  <text x="20" y="30" class="ascii">
+    8*ooW&&*M#&
+  </text>
+  <text x="20" y="45" class="ascii">
+    &lt;*##&&88&W&M#okqmrQho&
+  </text>
+  <!-- Add more lines of your ASCII art -->
+  
+  <!-- Profile Info -->
+  <text x="400" y="30"><tspan class="label">YourUsername</tspan></text>
+  <text x="400" y="50"><tspan class="label">OS:</tspan><tspan class="value" x="520">Windows 10, Linux</tspan></text>
+  <text x="400" y="70"><tspan class="label">Uptime:</tspan><tspan class="value" x="520">10 years, 2 months, 15 days</tspan></text>
+  <text x="400" y="90"><tspan class="label">Host:</tspan><tspan class="value" x="520">Your Company, Inc.</tspan></text>
+  <text x="400" y="110"><tspan class="label">Kernel:</tspan><tspan class="value" x="520">Full Stack Developer</tspan></text>
+  <text x="400" y="130"><tspan class="label">IDE:</tspan><tspan class="value" x="520">VSCode, IntelliJ</tspan></text>
+  
+  <text x="400" y="170"><tspan class="label">Languages.Programming:</tspan><tspan class="value" x="520">JavaScript, Python, Java</tspan></text>
+  <text x="400" y="190"><tspan class="label">Languages.Computer:</tspan><tspan class="value" x="520">HTML, CSS, JSON, YAML</tspan></text>
+  <text x="400" y="210"><tspan class="label">Languages.Real:</tspan><tspan class="value" x="520">English, Spanish</tspan></text>
+  
+  <text x="400" y="250"><tspan class="label">Hobbies.Software:</tspan><tspan class="value" x="520">Game Development, Web Design</tspan></text>
+  <text x="400" y="270"><tspan class="label">Hobbies.Hardware:</tspan><tspan class="value" x="520">3D Printing, Electronics</tspan></text>
+  
+  <text x="400" y="310"><tspan class="label">Contact</tspan></text>
+  <text x="400" y="330"><tspan class="label">Email.Personal:</tspan><tspan class="value" x="520">your.email@gmail.com</tspan></text>
+  <text x="400" y="350"><tspan class="label">Email.Work:</tspan><tspan class="value" x="520">your.name@company.com</tspan></text>
+  <text x="400" y="370"><tspan class="label">LinkedIn:</tspan><tspan class="value" x="520">linkedin.com/in/yourusername</tspan></text>
+  <text x="400" y="390"><tspan class="label">Discord:</tspan><tspan class="value" x="520">yourusername</tspan></text>
+  
+  <text x="400" y="430"><tspan class="label">GitHub Stats</tspan></text>
+  <text x="400" y="450">
+    <tspan class="label">Repos:</tspan>
+    <tspan class="value" x="520">42 (</tspan>
+    <tspan class="stat">Contributed: 15</tspan>
+    <tspan class="value">) | </tspan>
+    <tspan class="label">Stars:</tspan>
+    <tspan class="value" x="640">120</tspan>
+  </text>
+  <text x="400" y="470">
+    <tspan class="label">Lines of Code on GitHub:</tspan>
+    <tspan class="value" x="520">100,000 (</tspan>
+    <tspan class="stat">+50,000</tspan>
+    <tspan class="value">, </tspan>
+    <tspan class="stat-neg">-20,000</tspan>
+    <tspan class="value">)</tspan>
+  </text>
+</svg>
