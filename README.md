@@ -9,15 +9,14 @@
 Swirik
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-OS:         ............... Windows 10, Android 14, Linux
-Uptime:     ............... X years, Y months, Z days
-Host:       ............... Your Company, Inc.
-Kernel:     ............... Your Job Title
-IDE:        ............... VSCode X.X.X, IntelliJ 2023.X
+OS:         ............... Windows 11, Android 14, Linux
+Uptime:     ............... 0 years, 10 months, 12 days
+Kernel:     ............... Student
+IDE:        ............... VSCode 1.89, Eclipse 2024‑03, Code::Blocks 20.03, PyCharm 2024.1
 
-Languages.Programming: ... Java, Python, JavaScript, C++
+Languages.Programming: ... Java, C++, Python
 Languages.Computer:    ... HTML, CSS, JSON, LaTeX, YAML
-Languages.Real:        ... English, Spanish
+Languages.Real:        ... English, Filipino
 
 Hobbies.Software:   ... Cybersecurity, Graphic Design, 3D modeling
 Hobbies.Hardware:   ... Arduino, 3D Printing, Electronics, 
