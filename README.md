@@ -18,13 +18,13 @@ Languages.Programming: ... Java, C++, Python
 Languages.Computer:    ... HTML, CSS, JSON, LaTeX, YAML
 Languages.Real:        ... English, Filipino
 
-Hobbies.Software:   ... Cybersecurity, Graphic Design, 3D modeling
-Hobbies.Hardware:   ... Arduino, 3D Printing, Electronics, 
+Hobbies.Software:      ... Editing, Graphic Design, 3D modeling
+Hobbies.Hardware:      ... Arduino, 3D Printing, Electronics,
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Contact
 
-Email:  ............... mattjefersonceleste@gmail.com
+Email:           ............... mattjefersonceleste@gmail.com
 LinkedIn:        ............... linkedin.com/in/matt-jeferson-celeste-703109335/
 Discord:         ............... swirik_97686
 ```
