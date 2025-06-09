@@ -1,6 +1,4 @@
 ## Hi there, I'm Swirik 👋
-
-
 <details open>
   <summary><b>👤 About Me</b></summary>
   <br>
@@ -8,28 +6,22 @@
 ```
 Swirik
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 OS:         ............... Windows 11, iOS17, Linux
-Uptime:     ............... 0 years, 10 months
+Uptime:     ............... 0 years, 10 months, 9 days (as of June 9, 2025)
 Kernel:     ............... Student
 IDE:        ............... VSCode 1.89, Eclipse 2024‑03, Code::Blocks 20.03, PyCharm 2024.1
-
 Languages.Programming: ... Java, C++, Python
 Languages.Computer:    ... HTML, CSS, JSON, LaTeX, YAML
 Languages.Real:        ... English, Filipino
-
 Hobbies.Software:      ... Editing, Graphic Design, 3D modeling
 Hobbies.Hardware:      ... Arduino, 3D Printing, Electronics,
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Contact
-
 Email:           ............... mattjefersonceleste@gmail.com
 LinkedIn:        ............... linkedin.com/in/matt-jeferson-celeste-703109335/
 Discord:         ............... swirik_97686
 ```
 </details>
-
 <details>
   <summary><b>🛠️ Technical Skills</b></summary>
   <br>
@@ -49,18 +41,13 @@ Discord:         ............... swirik_97686
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 </details>
-
-
-
 <!--
-**swirik/swirik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**swirik/swirik** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
