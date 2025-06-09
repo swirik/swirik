@@ -1,0 +1,69 @@
+# .github/workflows/update-readme.yml
+name: Update README with Dynamic Uptime
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC (8:00 AM Philippine Time)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Update README
+      run: |
+        node -e "
+        const fs = require('fs');
+        const path = './README.md';
+        
+        // Calculate uptime from a starting date
+        const startDate = new Date('2024-08-05'); // Adjust this to your actual start date
+        const currentDate = new Date();
+        
+        const diffTime = Math.abs(currentDate - startDate);
+        const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+        const years = Math.floor(diffDays / 365);
+        const months = Math.floor((diffDays % 365) / 30);
+        const days = diffDays % 30;
+        
+        // Format current date
+        const options = { 
+          year: 'numeric', 
+          month: 'long', 
+          day: 'numeric',
+          timeZone: 'Asia/Manila'
+        };
+        const formattedDate = currentDate.toLocaleDateString('en-US', options);
+        
+        // Read current README
+        let readme = fs.readFileSync(path, 'utf8');
+        
+        // Update the uptime line with dynamic values
+        const uptimePattern = /Uptime:\s+\.+\s+.*$/m;
+        const newUptime = \`Uptime:     ............... \${years} years, \${months} months, \${days} days (as of \${formattedDate})\`;
+        
+        readme = readme.replace(uptimePattern, newUptime);
+        
+        // Write back to file
+        fs.writeFileSync(path, readme);
+        console.log('README updated successfully!');
+        console.log('New uptime:', newUptime);
+        "
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --staged --quiet || git commit -m "📅 Update uptime - $(date +'%Y-%m-%d')"
+        git push
