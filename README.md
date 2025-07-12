@@ -7,7 +7,7 @@
 Swirik
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 OS:         ............... Windows 11, iOS17, Linux
-Uptime:     ............... 0 years, 11 months, 10 days (as of July 11, 2025)
+Uptime:     ............... 0 years, 11 months, 11 days (as of July 12, 2025)
 Kernel:     ............... Student
 IDE:        ............... VSCode 1.89, Eclipse 2024‑03, Code::Blocks 20.03, PyCharm 2024.1
 Languages.Programming: ... Java, C++, Python
