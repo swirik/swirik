@@ -25,7 +25,7 @@ jobs:
         const path = './README.md';
         
 
-        const startDate = new Date('2024-08-05'); // Adjust this to your actual start date
+        const startDate = new Date('2024-08-05');
         const currentDate = new Date();
         
         const diffTime = Math.abs(currentDate - startDate);
