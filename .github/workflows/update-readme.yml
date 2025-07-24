@@ -1,11 +1,9 @@
-# .github/workflows/update-readme.yml
 name: Update README with Dynamic Uptime
 
 on:
   schedule:
-    # Runs every day at 00:00 UTC (8:00 AM Philippine Time)
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch: 
 
 jobs:
   update-readme:
@@ -26,7 +24,7 @@ jobs:
         const fs = require('fs');
         const path = './README.md';
         
-        // Calculate uptime from a starting date
+
         const startDate = new Date('2024-08-05'); // Adjust this to your actual start date
         const currentDate = new Date();
         
@@ -36,7 +34,7 @@ jobs:
         const months = Math.floor((diffDays % 365) / 30);
         const days = diffDays % 30;
         
-        // Format current date
+
         const options = { 
           year: 'numeric', 
           month: 'long', 
@@ -45,16 +43,16 @@ jobs:
         };
         const formattedDate = currentDate.toLocaleDateString('en-US', options);
         
-        // Read current README
+
         let readme = fs.readFileSync(path, 'utf8');
         
-        // Update the uptime line with dynamic values
+
         const uptimePattern = /Uptime:\s+\.+\s+.*$/m;
         const newUptime = \`Uptime:     ............... \${years} years, \${months} months, \${days} days (as of \${formattedDate})\`;
         
         readme = readme.replace(uptimePattern, newUptime);
         
-        // Write back to file
+ 
         fs.writeFileSync(path, readme);
         console.log('README updated successfully!');
         console.log('New uptime:', newUptime);
