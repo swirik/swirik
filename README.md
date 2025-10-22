@@ -6,15 +6,15 @@
 ```
 Swirik
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-OS:         ............... Windows 11, iOS17, Linux
+OS:         ............... Windows 11, iOS1, Ubuntu
 Uptime:     ............... 1 years, 2 months, 23 days (as of October 22, 2025)
 Kernel:     ............... Student
-IDE:        ............... VSCode 1.89, Eclipse 2024‑03, Code::Blocks 20.03, PyCharm 2024.1
-Languages.Programming: ... Java, C++, Python
-Languages.Computer:    ... HTML, CSS, JSON
-Languages.Real:        ... English, Filipino
-Hobbies.Software:      ... Editing, Graphic Design, 3D modeling
-Hobbies.Hardware:      ... Arduino, 3D Printing, Electronics
+IDE:        ............... VSCode, IntelliJ, PyCharm, CLion
+Languages.Programming: ...  Java, C++, Python
+Languages.Computer:    ...  HTML, CSS, JSON
+Languages.Real:        ...  English, Filipino
+Hobbies.Software:      ...  Editing, Graphic Design, 3D modeling
+Hobbies.Hardware:      ...  Arduino, 3D Printing, Electronics
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Contact
 Email:           ............... mattjefersonceleste@gmail.com
