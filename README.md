@@ -10,7 +10,7 @@ OS:         ............... Windows 11, iOS18, Ubuntu
 Uptime:     ............... 1 years, 7 months, 17 days (as of March 15, 2026)
 Kernel:     ............... Student
 IDE:        ............... VSCode, IntelliJ, PyCharm, CLion
-Languages.Programming: ...  Java, C++, Python
+Languages.Programming: ...  Java, C++, Python, JavaScript, PHP
 Languages.Computer:    ...  HTML, CSS, JSON
 Languages.Real:        ...  English, Filipino
 Hobbies.Software:      ...  Editing, Graphic Design, 3D modeling
