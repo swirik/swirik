@@ -13,8 +13,8 @@ IDE:        ............... VSCode, IntelliJ, PyCharm, CLion
 Languages.Programming: ...  Java, C++, Python, JavaScript, PHP
 Languages.Computer:    ...  HTML, CSS, JSON
 Languages.Real:        ...  English, Filipino
-Hobbies.Software:      ...  Editing, Graphic Design, 3D modeling
-Hobbies.Hardware:      ...  Arduino, 3D Printing, Electronics
+Hobbies.Software:      ...  Video Editing, Graphic Design, 3D modeling
+Hobbies.Hardware:      ...  Programming, Video Editing, Electronics
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Contact
 Email:           ............... mattjefersonceleste@gmail.com
