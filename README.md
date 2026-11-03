@@ -7,7 +7,7 @@
 Swirik
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 OS:         ............... Windows 11, iOS26, Ubuntu
-Uptime:     ............... 2 years, 2 months, 9 days (as of November 2, 2026)
+Uptime:     ............... 2 years, 3 months, 10 days (as of November 3, 2026)
 Kernel:     ............... Student
 IDE:        ............... VSCode, IntelliJ, PyCharm, CLion
 Languages.Programming: ...  Java, C++, Python, JavaScript, PHP
